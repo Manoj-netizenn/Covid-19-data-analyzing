@@ -1,5 +1,5 @@
 <h2 align="center"><u>Covid 19 case analysis</u></h2>
-<img src="hhttps://www.amprogress.org/wp-content/uploads/2020/03/Microbes-1.jpg" style="display: block; margin: auto; alt='data-analysis>
+<img src="hhttps://www.amprogress.org/wp-content/uploads/2020/03/Microbes-1.jpg" style="display: block; margin: auto; alt='data-analysis'></img>
 
 
 <p align="center">
